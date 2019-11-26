@@ -1,0 +1,15 @@
+Mom's Friendly Robot Oil|Hardware|5.00|5
+Bachelor Chow|Food|3.00|10
+Torgo's Executive Powder|Beauty|1.00|25
+Coffee|Food|3.00|10
+Popplers|Food|4.00|2
+Dr. FlimFlam's Miracle Cream|Beauty|5.00|1
+Owl Repellent|Hardware|3.00|3
+Planet Express Ship|Hardware|22.00|2
+Duracell Batteries|Hardware|5.00|2
+Portable Camping Tent|Hardware|25.00|1
+Irish Cream Body Soap|Beauty|4.00|6
+Head&Shoulders Shampoo|Beauty|10|2
+Kellogs Frosted Flakes|Food|3|2
+Starbucks Coffee Pack|Food|.50|10
+Iphone Charging Cable|Hardware|15|1
